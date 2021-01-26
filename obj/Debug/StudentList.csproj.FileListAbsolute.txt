@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\asus\source\repos\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\asus\source\repos\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\asus\source\repos\StudentList\StudentList\obj\Debug\StudentList.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\asus\source\repos\StudentList\StudentList\obj\Debug\StudentList.pdb
